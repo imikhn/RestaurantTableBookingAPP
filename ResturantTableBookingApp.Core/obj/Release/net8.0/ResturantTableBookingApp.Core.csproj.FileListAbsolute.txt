@@ -1,0 +1,13 @@
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\bin\Release\net8.0\ResturantTableBookingApp.Core.deps.json
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\bin\Release\net8.0\ResturantTableBookingApp.Core.dll
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\bin\Release\net8.0\ResturantTableBookingApp.Core.pdb
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.csproj.AssemblyReference.cache
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.AssemblyInfoInputs.cache
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.AssemblyInfo.cs
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.csproj.CoreCompileInputs.cache
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.sourcelink.json
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.dll
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\refint\ResturantTableBookingApp.Core.dll
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ResturantTableBookingApp.Core.pdb
+C:\Git_Repos_local\ResturantTableBookingAPP\ResturantTableBookingApp.Core\obj\Release\net8.0\ref\ResturantTableBookingApp.Core.dll
