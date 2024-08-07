@@ -6442,11 +6442,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.API\\ResturantTableBookingApp.API.csproj",
+      "projectUniqueName": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.API\\ResturantTableBookingApp.API.csproj",
       "projectName": "ResturantTableBookingApp.API",
-      "projectPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.API\\ResturantTableBookingApp.API.csproj",
+      "projectPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.API\\ResturantTableBookingApp.API.csproj",
       "packagesPath": "C:\\Users\\imran.khan4\\.nuget\\packages\\",
-      "outputPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.API\\obj\\",
+      "outputPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imran.khan4\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6464,14 +6464,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj": {
-              "projectPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj"
+            "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj": {
+              "projectPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj"
             },
-            "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Data\\ResturantTableBookingApp.Data.csproj": {
-              "projectPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Data\\ResturantTableBookingApp.Data.csproj"
+            "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Data\\ResturantTableBookingApp.Data.csproj": {
+              "projectPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Data\\ResturantTableBookingApp.Data.csproj"
             },
-            "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Service\\ResturantTableBookingApp.Service.csproj": {
-              "projectPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Service\\ResturantTableBookingApp.Service.csproj"
+            "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Service\\ResturantTableBookingApp.Service.csproj": {
+              "projectPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Service\\ResturantTableBookingApp.Service.csproj"
             }
           }
         }

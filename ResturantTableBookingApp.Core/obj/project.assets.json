@@ -566,11 +566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj",
+      "projectUniqueName": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj",
       "projectName": "ResturantTableBookingApp.Core",
-      "projectPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj",
+      "projectPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Core\\ResturantTableBookingApp.Core.csproj",
       "packagesPath": "C:\\Users\\imran.khan4\\.nuget\\packages\\",
-      "outputPath": "C:\\Git_Repos_local\\ResturantTableBookingAPP\\ResturantTableBookingApp.Core\\obj\\",
+      "outputPath": "C:\\GitRelatedProject\\RestaurantTableBookingAPP\\ResturantTableBookingApp.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\imran.khan4\\AppData\\Roaming\\NuGet\\NuGet.Config",
