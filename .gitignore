@@ -25,3 +25,5 @@ packages/
 /ResturantTableBookingApp.Data/obj/Debug/net8.0/ResturantTableBookingApp.Data.AssemblyInfo.cs
 /ResturantTableBookingApp.API/obj/Debug/net8.0/ResturantTableBookingApp.API.AssemblyInfo.cs
 /ResturantTableBookingApp.Service/obj/Debug/net8.0/ResturantTableBookingApp.Service.AssemblyInfo.cs
+/ResturantTableBookingApp.API/obj/Debug/net8.0/ResturantTableBookingApp.API.csproj.FileListAbsolute.txt
+/ResturantTableBookingApp.API/obj/Debug/net8.0/ResturantTableBookingApp.API.MvcApplicationPartsAssemblyInfo.cs
