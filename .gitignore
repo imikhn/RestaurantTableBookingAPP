@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+# Ignore build output
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Ignore user-specific files
+*.user
+*.suo
+*.rsuser
+*.csproj.user
+
+# Ignore packages folder
+packages/
+
+# Ignore Visual Studio cache and temp files
+.vscode/
+.vs/
+.vscode/
+/ResturantTableBookingApp.Data/obj/Debug/net8.0/ResturantTableBookingApp.Data.AssemblyInfo.cs
+/ResturantTableBookingApp.API/obj/Debug/net8.0/ResturantTableBookingApp.API.AssemblyInfo.cs
+/ResturantTableBookingApp.Service/obj/Debug/net8.0/ResturantTableBookingApp.Service.AssemblyInfo.cs
