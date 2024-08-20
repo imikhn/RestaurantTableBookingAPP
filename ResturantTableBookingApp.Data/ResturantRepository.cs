@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using ResturantTableBookingApp.Core;
 using ResturantTableBookingApp.Core.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -20,6 +21,13 @@ namespace ResturantTableBookingApp.Data
         /// Async/await keyword should be used where you need to manipulate the record,until that time return task is 
         /// </summary>
         /// <returns></returns>
+        /// 
+
+        public Task<User?> GetUserAsync(string emailId)
+        {
+            return _context.Users.FirstOrDefaultAsync(f => f.Email.Equals(emailId));
+        }
+
         public Task<List<ResturantModel>> GetAllResturantsAsync()
         {
             var resturantsList = _context.Restaurants
@@ -92,7 +100,11 @@ namespace ResturantTableBookingApp.Data
                     TimeSlotId = ts.Id,
                     MealType = ts.MealType,
                     ReservationDay = ts.ReservationDay,
-                    TableStatus = ts.TableStatus
+                    TableStatus = ts.TableStatus,
+                    UserEmailId = (from r in _context.Reservations
+                                   join u in _context.Users on r.UserId equals u.Id
+                                   where r.TimeSlotId == ts.Id
+                                   select u.Email.ToLower()).FirstOrDefault()
                 })
                 .ToListAsync();
             return data;

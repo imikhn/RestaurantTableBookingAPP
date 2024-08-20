@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using ResturantTableBookingApp.Core.ViewModel;
 using ResturantTableBookingApp.Service;
@@ -7,6 +8,7 @@ namespace ResturantTableBookingApp.API.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [AllowAnonymous]
     public class ResturantController : ControllerBase
     {
         private readonly IResturantService _resturantService;

@@ -42,5 +42,19 @@ namespace ResturantTableBookingApp.Core.ViewModel
         public string MealType { get; set; } = null!;
         public string TableStatus { get; set; } = null!;
         public int TimeSlotId { get; set; }
+
+        public string? UserEmailId { get; set; }
+    }
+
+    public class ReservationModel
+    {
+        public string? UserId { get; set; }
+        public string? FirstName { get; set; }
+        public string? LastName { get; set; }
+        public required string EmailId { get; set; }
+        public string? PhoneNumber { get; set; }
+        public required int TimeSlotId { get; set; }
+        public required DateTime ReservationDate { get; set; }
+        public string? ReservationStatus { get; set; }
     }
 }
